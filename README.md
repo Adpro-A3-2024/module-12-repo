@@ -22,3 +22,7 @@
 ![](img/adpro-context.jpg)
 ![](img/adpro-container.jpg)
 ![](img/adpro-deployment.jpg)
+
+## Why risk storming is applied?
+
+Tujuan dari risk storming adalah mengidentifikasi, mengevaluasi, dan mengembangkan rencana mitigasi dan kontingensi untuk risiko yang ada dan berpotensi ada. Dengan demikian, proses pengembangan menjadi lebih lancar dan tingkat keberhasilan lebih tinggi.
