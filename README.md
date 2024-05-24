@@ -35,6 +35,10 @@
 
 Tujuan dari risk storming adalah mengidentifikasi, mengevaluasi, dan mengembangkan rencana mitigasi dan kontingensi untuk risiko yang ada dan berpotensi ada. Dengan demikian, proses pengembangan menjadi lebih lancar dan tingkat keberhasilan lebih tinggi.
 
+## UML
+
+![](img/UML-A3.png)
+
 ## Individual Component Diagram
 
 ### Product (Ahmad Fatih Faizi)
