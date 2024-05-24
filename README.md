@@ -19,10 +19,36 @@
 
 ## 2. Future Architecture
 
+### Context
+
 ![](img/adpro-context.jpg)
+
+### Container
+
 ![](img/adpro-container.jpg)
+
+### Deployment
+
 ![](img/adpro-deployment.jpg)
 
 ## Why risk storming is applied?
 
 Tujuan dari risk storming adalah mengidentifikasi, mengevaluasi, dan mengembangkan rencana mitigasi dan kontingensi untuk risiko yang ada dan berpotensi ada. Dengan demikian, proses pengembangan menjadi lebih lancar dan tingkat keberhasilan lebih tinggi.
+
+## Individual Component Diagram
+
+### Product (Ahmad Fatih Faizi)
+
+![](img/adpro-product.jpg)
+
+### Buy Product (Abbilhaidar Farras Zulfikar)
+
+![](img/adpro-buy-product.jpg)
+
+### Request Product (Mariano Gerardus Senduk)
+
+![](img/adpro-request-product.jpg)
+
+### Order (Muhamad Rifqi)
+
+![](img/adpro-order.jpg)
